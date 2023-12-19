@@ -2,27 +2,7 @@
 
 
 # Table of Contents
-Preamble
-Product Owner
-Rockstars
-Project Deadline
-Project Specification
-Useful Links
-More Information
-Risk Register
-Tenants of Design
-Social Contract
-Meetings
-Communication
-Other
-Branching Strategy
-Estimating Story Points
-Definition of Ready
-Definition of Done
-Preamble
-This is the online repository for the DevOps Assignment.
-
-Each team should fill in the blanks <<>> and add additional content that the team agrees on. This is your contract of work. It is an agreement amongst yourselves. Honour it.
+The end customer would like an online booking system for range of horror themed adventure parks. Their most popular product is Risky Rollercoaster. The system must take details of customer map them to the themed adventure park of their choice along with a single box for extra set of health and warning checkboxes. The system should be clean and simple. Your team has been tasked with creating the pipeline for the SDLC. You have also been asked to provide a simple prototype page(s) to test the pipeline. The system needs to take into account the usual security requirements.  The administrator of the end system (Wednesday or Pugsley) should be able to access detailed information and edit as appropriate.  Once the client enters details it should not be able to be changed by the holiday maker.
 
 
 <>.
