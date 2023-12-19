@@ -10,7 +10,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 
 # Scrum Master
 19 Dec 2023, Peter Tawfik
-           , Patric Kearns
+28 Dec 2023, Patric Kearns
            , Owen Connor
            , Goran Kearns
 
@@ -23,7 +23,7 @@ Owen Connor, Patric Kearns , Goran Kearns , Peter Tawfik
 
 
 # Project Deadline
-Refer to BB for deadlines
+18th Mar 2024
 
 # Project Specification
 Clean and simple design
@@ -40,7 +40,7 @@ Regex for cleansing and validation of data before sending it to the database.
 
 # Useful Links
  - Project Slack: https://atudevops.slack.com
- - GitHub: <<staff member's GitHub repo for the student project>>
+ - GitHub: https://github.com/PeterTawfik-ATU/Project/
 
 # More Information
 For more information, visit our other sections
