@@ -9,14 +9,17 @@ The end customer would like an online booking system for range of horror themed 
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-<<list week number, student name>>
-Rotating scrum master so that everyone gets to experience the role once.
+19 Dec 2023, Peter Tawfik
+           , Patric Kearns
+           , Owen Connor
+           , Goran Kearns
+
 
 # Product Owner
-<<List name>> (Permanent)
+Peter Tawfik
 
 # Rockstars
-<<list team member names here>>
+Owen Connor, Patric Kearns , Goran Kearns , Peter Tawfik
 
 
 # Project Deadline
