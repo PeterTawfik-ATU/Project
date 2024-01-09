@@ -41,6 +41,7 @@ Regex for cleansing and validation of data before sending it to the database.
 # Useful Links
  - Project Slack: https://atudevops.slack.com
  - GitHub: https://github.com/PeterTawfik-ATU/Project/
+ - Project Scope: Wednesday's Wicked Adventure : https://atudevops3.atlassian.net/wiki/spaces/TEAM/pages/1704001/Project+Scope+Wednesday+s+Wicked+Adventure
 
 # More Information
 For more information, visit our other sections
